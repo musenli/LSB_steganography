@@ -1,0 +1,2 @@
+# LSB_steganography
+可实现将base64加密的数据往png图片中隐写；从png图片中提取base64加密数据并保存，或者提取base64加密数据并执行。适用于CTF或者渗透测试的小工具
